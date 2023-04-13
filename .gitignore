@@ -1,0 +1,7 @@
+.DS_Store
+data/tags.txt
+data/selected_memos.txt
+data/index.html
+data/flomo_history.txt
+data/flomo_history.json
+data/audio.wav
